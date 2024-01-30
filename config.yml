@@ -1,0 +1,6 @@
+cooldown: 15
+servers:
+  psurvival: "psurvival"
+  creative: "creative"
+  skyblock: "skyblock"
+  battlegrounds: "battlegrounds"

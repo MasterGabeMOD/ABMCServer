@@ -1,0 +1,10 @@
+{
+  "id": "abmcserver",
+  "name": "ABMCServer",
+  "version": "1.0.0",
+  "description": "Server switch commands",
+  "authors": ["MasterGabeMOD"],
+  "main": "server.alanbecker.net.ABMCServer",
+  "dependencies": [
+  ]
+}
